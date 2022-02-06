@@ -1,1 +1,1 @@
-Game available at stevenliang7.github.io/tictactoe
+Game available [here](stevenliang7.github.io/tictactoe)
